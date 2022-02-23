@@ -1,6 +1,6 @@
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersusilva)](https://github.com/Srchavier)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-b4874b118/)](https://www.linkedin.com/in/andersusilva/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Srchavier)](https://github.com/Srchavier)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-b4874b118/)](https://www.linkedin.com/in/eduardo-rodrigues-b4874b118/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/18283628/eduardo-rodrigues-fernandes)](https://stackoverflow.com/users/18283628/eduardo-rodrigues-fernandes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duduhyx@gmail.com)](mailto:duduhyx@gmail.com)
 
