@@ -25,13 +25,13 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srchavier&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srchavier&show_icons=true&theme=dracula&line_height=27" alt="**Eduardo Rodrigues** github stats"/>
 </a>
   
   ##
 
-![Snake animation](https://raw.githubusercontent.com/andersusilva/andersusilva/cf9302abd0f1f12c578e1d41bcf7508946ba6b2b/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Srchavier/Srchavier/main/github-contribution-grid-snake.svg)
